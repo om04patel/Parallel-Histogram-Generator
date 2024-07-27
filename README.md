@@ -6,6 +6,7 @@ This project is a parallel program that takes a list of file names as input and 
 
 # Features
 -Parallel Processing: Utilizes multiple child processes to handle files concurrently.
+
 -Signal Handling: Implements SIGCHLD signal handling to manage child process termination.
 -Dynamic Memory Allocation: Reads files dynamically and allocates memory as needed.
 -Error Handling: Provides robust error handling for file operations and process management.
